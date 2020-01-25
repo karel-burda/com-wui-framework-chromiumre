@@ -3,11 +3,11 @@
 ## Introduction
 Stand alone runtime environment for WUI Framework's applications
 
-Part of the WUI framework, see **https://bitbucket.org/wuiframework/com-wui-framework-resource-writer/src/develop/**.
+Part of the WUI framework, see **https://bitbucket.org/wuiframework/com-wui-framework-chromiumre/src/develop**.
 
 Developed as an independent part of the multi-platform framework for application development: https://www.wuiframework.com.
 
-Originally created and mantained by Michal Kelnar in 2016.
+Originally created and mantained by **Michal Kelnar** in 2016.
 
 ## License
 This software is owned or controlled by NXP Semiconductors.
